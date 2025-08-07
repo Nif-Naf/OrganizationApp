@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+.env
+.env.*
+.venv/
+venv/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Another things
+README.md
+tests/integration/test.db
+.isort.cfg
